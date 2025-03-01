@@ -101,5 +101,11 @@ This project uses the following Flutter packages:
 - **mapbox_maps_flutter** → Mapbox Maps SDK
 - **geolocator** → Fetch real-time user location
 - **flutter_dotenv** → Manage environment variables
+  ```
+  mapbox_maps_flutter: ^2.6.1
+  flutter_dotenv: ^5.2.1
+  geolocator: ^13.0.2
+  
+  ```
 
 
